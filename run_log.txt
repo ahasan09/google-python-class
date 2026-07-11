@@ -1,4 +1,0 @@
-  File "/Users/abulhasan/Desktop/Programming/Github_Projects/google-python-class/hello.py", line 29
-    print 'Hello', name
-          ^
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print('Hello', name)?
